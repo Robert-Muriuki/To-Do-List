@@ -99,3 +99,8 @@ form button {
     text-decoration: line-through;
     opacity: 0.5;
 }
+
+@-o-viewport{
+    zoom: 1;
+    width: extend-to-zoom;
+}
